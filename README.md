@@ -1,2 +1,2 @@
 # Currency-Convertor
-Convert into currencies 
+Convert INR to Foreign currencies 
